@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am a passionate and dedicated MERN Stack Developer with strong knowledge of MongoDB, Express.js, React.js, and Node.js. I enjoy building scalable, user-friendly, and real-world web applications that solve practical problems.<br><br>I have hands-on experience in developing full-stack projects such as a Smart Society Management System and a Resume Analyzer & Skill Gap Finder. Through these projects, I have gained practical knowledge of REST APIs, authentication, database design, state management, and clean UI development.<br><br>I am a quick learner, problem solver, and team-oriented developer who continuously works on improving coding standards and understanding system design. I am currently seeking an opportunity where I can contribute my skills, learn from experienced professionals, and grow as a full-stack developer.
+👨‍💻 I am a results-driven MERN Stack Developer who is passionate about building modern, scalable, and high-performance web applications. With strong expertise in MongoDB, Express.js, React.js, and Node.js, I focus on creating clean UI, efficient backend systems, and seamless user experiences.
+
+I have hands-on experience developing full-stack projects such as a Smart Society Management System and a Resume Analyzer & Skill Gap Finder. Through these projects, I gained practical knowledge of REST APIs, authentication systems, database architecture, state management, and responsive UI development.
+
+I believe in writing clean, maintainable code and continuously improving my problem-solving and system design skills. I am currently seeking an opportunity where I can contribute, learn from experienced professionals, and grow as a Full Stack Developer.
 
 
 ## 🌐 Socials:
